@@ -1,0 +1,17 @@
+/* src/index.css или src/main.css */
+
+html, body, #root {
+  height: 100%;
+}
+
+/* Tailwind directives */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Дополнительные стили */
+body {
+  @apply bg-gray-900 text-white;
+}
+
+

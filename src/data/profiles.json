@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "name": "Войти",
+    "avatar": "/avatars/profile-main.png"
+  },
+  {
+    "id": 2,
+    "name": "Алексей",
+    "avatar": "/avatars/profile1.png"
+  },
+  {
+    "id": 3,
+    "name": "Марина",
+    "avatar": "/avatars/profile2.png"
+  },
+  {
+    "id": 4,
+    "name": "Гость",
+    "avatar": "/avatars/profile3.png"
+  }
+]

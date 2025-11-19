@@ -1,0 +1,74 @@
+[
+  {
+    "id": "1",
+    "name": "Первый канал",
+    "icon": "/icons/1kanal.png",
+    "banner": "/banners/banner1.jpg",
+    "description": "Крупнейший федеральный канал России с разнообразным контентом.",
+    "category": "federal",
+    "currentProgram": "Новости",
+    "duration": "20:00 – 20:45"
+  },
+  {
+    "id": "2",
+    "name": "Россия 1",
+    "icon": "/icons/Rossiya-1.png",
+    "banner": "/banners/banner2.jpg",
+    "description": "Ведущий канал с новостями, сериалами и развлекательными программами.",
+    "category": "federal",
+    "currentProgram": "Сериал: След",
+    "duration": "20:45 – 22:00"
+  },
+  {
+    "id": "3",
+    "name": "НТВ",
+    "icon": "/icons/ntv.png",
+    "banner": "/banners/banner3.jpg",
+    "description": "Канал с широким спектром программ: от новостей до драм и шоу.",
+    "category": "federal",
+    "currentProgram": "Шоу: Тайны следствия",
+    "duration": "21:00 – 23:00"
+  },
+  {
+    "id": "4",
+    "name": "Матч ТВ",
+    "icon": "/icons/matchtv.png",
+    "banner": "/banners/banner4.jpg",
+    "description": "Канал о спорте, трансляции матчей и спортивные шоу.",
+    "category": "sports",
+    "currentProgram": "Футбол: Зенит – Спартак",
+    "duration": "19:30 – 21:30"
+  },
+  {
+    "id": "5",
+    "name": "Кино ТВ",
+    "icon": "/icons/kinotv.png",
+    "banner": "/banners/banner5.jpg",
+    "description": "Кино и сериалы круглосуточно.",
+    "category": "movies",
+    "currentProgram": "Фильм: Начало",
+    "duration": "20:00 – 22:30"
+  },
+  {
+    "id": "6",
+    "name": "Дискавери",
+    "icon": "/icons/discovery.png",
+    "banner": "/banners/banner6.jpg",
+    "description": "Познавательные передачи, наука и приключения.",
+    "category": "education",
+    "currentProgram": "На грани возможного",
+    "duration": "18:00 – 19:00"
+  },
+  {
+    "id": "7",
+    "name": "Карусель",
+    "icon": "/icons/karusel.png",
+    "banner": "/banners/banner7.jpg",
+    "description": "Детский развлекательный и образовательный канал.",
+    "category": "kids",
+    "currentProgram": "Маша и Медведь",
+    "duration": "18:30 – 19:00"
+  }
+]
+
+  

@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Дюна: Часть вторая",
+    "description": "Пол Атрейдес объединяется с фременами, чтобы отомстить за свою семью.",
+    "image": "/assets/banners/dune2.jpg"
+  },
+  {
+    "title": "Оппенгеймер",
+    "description": "История физика, создавшего атомную бомбу и изменившего ход истории.",
+    "image": "/assets/banners/oppenheimer.jpg"
+  },
+  {
+    "title": "Барби",
+    "description": "Мир Барби и Кена — веселый, розовый и полный сюрпризов.",
+    "image": "/assets/banners/barbie.jpg"
+  }
+]

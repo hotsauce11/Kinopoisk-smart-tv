@@ -1,0 +1,22 @@
+import moviesData from "../data/movies.json";
+
+export default function FavoritesPage() {
+  const [favorites, setFavorites] = useState(() => {
+    const saved = localStorage.getItem("favorites");
+    return saved ? JSON.parse(saved) : [];
+  });
+
+  const favoriteMovies = moviesData.filter((m) => favorites.includes(m.id));
+
+  if (favoriteMovies.length === 0) {
+    return <div className="p-4 text-white">Избранных фильмов пока нет.</div>;
+  }
+
+  return (
+    <div className="p-4">
+      <h1 className="text-3xl mb-4 text-white">Избранное</h1>
+      {/* Можно рендерить с тем же MovieSection, но с переданным favoriteMovies */}
+      <MovieSection title="Избранное" movies={favoriteMovies} />
+    </div>
+  );
+}

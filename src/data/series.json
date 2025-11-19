@@ -1,0 +1,30 @@
+[
+  {
+    "id": "s1",
+    "title": "Мажор",
+    "description": "Богатый мажор становится полицейским и находит себя.",
+    "poster": "/posters/mazhor.jpg",
+    "rating": 7.8
+  },
+  {
+    "id": "s2",
+    "title": "Метод",
+    "description": "Следователь с нетрадиционными методами расследует жуткие преступления.",
+    "poster": "/posters/metod.jpg",
+    "rating": 8.1
+  },
+  {
+    "id": "s3",
+    "title": "Псих",
+    "description": "Психотерапевт с кризисом личности ведёт сессии и борется с собой.",
+    "poster": "/posters/psih.jpg",
+    "rating": 7.4
+  },
+  {
+    "id": "s4",
+    "title": "Контейнер",
+    "description": "История суррогатной матери в доме богатой семьи.",
+    "poster": "/posters/konteyner.jpg",
+    "rating": 7.2
+  }
+]

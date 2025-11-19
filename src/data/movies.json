@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "title": "Вызов",
+    "year": 2022,
+    "poster": "/posters/challenge.jpg",
+    "description": "Фильм о первой операции на орбите.",
+    "rating": 7.9,
+    "isNew": true,
+    "featured": true,
+    "genres": ["Драма", "Космос"],
+    "trailerUrl": "https://www.youtube.com/watch?v=PKBKmaOFlsg"
+  },
+  {
+    "id": 2,
+    "title": "Дочки",
+    "year": 2022,
+    "poster": "/posters/daughters.jpg",
+    "description": "Тёплая семейная драма.",
+    "rating": 8.1,
+    "isNew": true,
+    "featured": true,
+    "genres": ["Комедия"],
+    "trailerUrl": "https://www.youtube.com/watch?v=ZLW4YGcbVs8"
+  },
+  {
+    "id": 3,
+    "title": "Father",
+    "year": 2023,
+    "poster": "/posters/father.jpg",
+    "description": "Тёплая семейная драма.",
+    "rating": 8.1,
+    "isNew": true,
+    "featured": true,
+    "genres": ["Драма, Мелодрама"],
+    "trailerUrl": "https://www.youtube.com/watch?v=txLSE7tpgr0"
+  }, 
+  {
+  "id": 4,
+  "title": "Ночь страха 2",
+  "genres": ["Ужасы"],
+  "year": 2024,
+  "description": "Вторая часть кошмарной ночи.",
+  "poster": "/posters/horror2.jpg",
+  "rating": 6.8
+},
+{
+  "id": 5,
+  "title": "Ночь страха 2",
+  "genres": ["Ужасы"],
+  "year": 2024,
+  "description": "Вторая часть кошмарной ночи.",
+  "poster": "/posters/horror2.jpg",
+  "rating": 6.8
+}, 
+{
+  "id": 6,
+  "title": "Ночь страха 2",
+  "genres": ["Ужасы"],
+  "year": 2024,
+  "description": "Вторая часть кошмарной ночи.",
+  "poster": "/posters/horror2.jpg",
+  "rating": 6.8
+}, 
+{
+  "id": 7,
+  "title": "Ночь страха 2",
+  "genres": ["Ужасы"],
+  "year": 2024,
+  "description": "Вторая часть кошмарной ночи.",
+  "poster": "/posters/horror2.jpg",
+  "rating": 6.8
+},
+{
+  "id": 8,
+  "title": "Ночь страха 2",
+  "genres": ["Ужасы"],
+  "year": 2024,
+  "description": "Вторая часть кошмарной ночи.",
+  "poster": "/posters/horror2.jpg",
+  "rating": 6.8
+}
+
+
+]
+
+
+
+
+  

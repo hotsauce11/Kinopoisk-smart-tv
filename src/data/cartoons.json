@@ -1,0 +1,30 @@
+[
+  {
+    "id": "c1",
+    "title": "Маша и Медведь",
+    "description": "Весёлые и поучительные приключения девочки Маши и Медведя.",
+    "poster": "/posters/masha.jpg",
+    "rating": 6.9
+  },
+  {
+    "id": "c2",
+    "title": "Смешарики",
+    "description": "Философские и добрые истории с круглыми персонажами.",
+    "poster": "/posters/smeshariki.jpg",
+    "rating": 8.0
+  },
+  {
+    "id": "c3",
+    "title": "Три кота",
+    "description": "Три любопытных котёнка учатся решать повседневные задачи.",
+    "poster": "/posters/trikota.jpg",
+    "rating": 6.4
+  },
+  {
+    "id": "c4",
+    "title": "Фиксики",
+    "description": "Маленькие человечки помогают технике и объясняют, как она работает.",
+    "poster": "/posters/fiksiki.jpg",
+    "rating": 7.1
+  }
+]
