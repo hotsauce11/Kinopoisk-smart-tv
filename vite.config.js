@@ -1,9 +1,19 @@
-import { defineConfig } from 'vite';
-import react from '@vitejs/plugin-react';
+import { defineConfig } from "vite";
+import react from "@vitejs/plugin-react";
 
+// Vercel автоматически раздаёт проект с корня ("/")
+// поэтому base должен быть строго "/"
 export default defineConfig({
+  base: "/",
   plugins: [react()],
-  // не нужно historyApiFallback здесь!
+  build: {
+    outDir: "dist",
+    chunkSizeWarningLimit: 1600,
+  },
+  server: {
+    host: true,
+  },
 });
+
 
 
